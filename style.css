@@ -1,0 +1,163 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+
+}
+
+.heading-1 {
+    font-size: 40px;
+    color: white;
+}
+
+.paragraph-1 {
+    font-size: 20px;
+    color: white;
+}
+
+.section1 {
+    text-align: center;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    color: white;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border-width: 20px;
+}
+
+
+.position img {
+    width: 100%;
+
+}
+
+.donate-now {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.section-2 {
+    text-align: center;
+}
+
+.paragraph-2 {
+    color: grey;
+}
+
+.square {
+    width: 100px;
+    height: 70px;
+    background-color: azure;
+    display: inline-block;
+    margin: 20px 20px;
+}
+
+.square2 {
+    width: 100px;
+    height: 70px;
+    border: 2px solid rgb(182, 85, 20);
+    display: inline-block;
+    margin: 20px 20px;
+    background-color: rgb(231, 187, 229);
+}
+
+.input-section {
+    text-align: center;
+}
+
+.link-button2 {
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    color: white;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border-width: 20px;
+}
+
+#donate-now2 {
+    margin-top: 30px;
+}
+
+.section-3 {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 70px;
+}
+
+#donate-plan {
+    font-size: 15px;
+    color: grey;
+}
+
+.section-4 {
+    text-align: left;
+    display: inline-block;
+
+}
+
+.food-square {
+    width: 250px;
+    height: 250px;
+    background-color: azure;
+    display: inline-block;
+    margin: 20px 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+
+}
+
+.title1 {
+    padding-top: 30px;
+}
+
+#food {
+    font-size: 10px;
+    color: grey;
+}
+
+.shelter-square {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(243, 212, 239);
+    display: inline-block;
+    margin: 20px 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.title-2 {
+    padding-top: 30px;
+}
+
+#shelter {
+    font-size: 10px;
+    color: grey;
+}
+
+.education-square {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(235, 218, 164);
+    display: inline-block;
+    margin: 20px 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.title-3 {
+    padding-top: 30px;
+}
+
+#education {
+    font-size: 10px;
+    color: grey;
+}
